@@ -1,5 +1,7 @@
 # Real-time water simulation on GPU with OpenGL
 
+[Demo video](https://drive.google.com/file/d/1ceq8epG3ap6ilOAaniNcN8ybwiKUQOhA/view?usp=sharing)
+
 ## Build
 
 Required GPU with OpenGL support >=4.3
@@ -32,7 +34,3 @@ Build with `./compile.sh`
 * Right click - disturb water surface
 * Q - toggle wireframe water surface
 * F1-F4 - teleport to preset scene
-
-## Demo video
-
-[Link](https://drive.google.com/file/d/1ceq8epG3ap6ilOAaniNcN8ybwiKUQOhA/view?usp=sharing)
