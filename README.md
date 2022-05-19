@@ -1,5 +1,7 @@
 # Real-time water simulation on GPU with OpenGL
 
+<img src=preview.jpg>
+
 [Demo video](https://drive.google.com/file/d/1ceq8epG3ap6ilOAaniNcN8ybwiKUQOhA/view?usp=sharing)
 
 ## Build
