@@ -1,5 +1,7 @@
 # Real-time water simulation on GPU with OpenGL
 
+CMC MSU, 5 semester bachelor, 2019
+
 <img src=preview.jpg>
 
 [Demo video](https://drive.google.com/file/d/1ceq8epG3ap6ilOAaniNcN8ybwiKUQOhA/view?usp=sharing)
